@@ -1,0 +1,83 @@
+<html> 
+<head>
+<title>
+MY FIRST WEDSITE AISHWARIYA COLLEGE JODHPUR
+</title>
+
+	
+
+</head>
+<MARQUEE> 
+	<FONT COLOR="RED">VIKASH JOSHI HARIAYDHANA JODHPUR RAJASTHAN
+ </MARQUEE><BR>
+
+<body>
+	
+	<body bgcolor="yellow">
+		<fieldset>
+			<font color="red">
+	<UL TYPE="DISC">
+	<A HREF="C:\Users\VIKAS\Desktop\New folder (2)\ASTRO.HTML"><U><LI><FONT COLOR="DARK READ"><B>HOME</B></FONT></LI></A><BR>
+	<A HREF="C:\Users\VIKAS\Desktop\New folder (2)\HTMLCSS.HTML"><U><LI><FONT COLOR="BLACK"><B>ABOUT</B></FONT></LI></A><BR>	`
+	<A HREF="C:\Users\VIKAS\Desktop\New folder (2)\new.html"><U><LI><FONT COLOR="GREEN"><B>CONTACT</B></FONT></LI></A><BR>
+    <A HREF="C:\Users\VIKAS\Desktop\New folder (2)\NEWCHATGTP.HTML"><U><LI><FONT COLOR="BLACK"><B>REGISTER FROM</B></FONT></LI></A><BR>
+	<a href="https://instagram.com/vikashagarwal97?igshid=YmMyMTA2M2Y=https://instagram.com/vikashagarwal97?igshid=YmMyMTA2M2Y="><U><LI><FONT COLOR="BIUE"><B>INSTAGRAM ID</B></FONT></LI></A><BR></a></td><BR>
+    <a href="TEL:9785947143"><U><LI><FONT COLOR="BLACK"><B>WHATAPP</B></FONT></LI></A><BR></a></td>	<BR>
+</UL>
+</B>
+</fieldset>
+
+<form action="">
+<fieldset>
+<legend>Personal information:</legend>
+Name: <input type="text" size="30"><br>
+E-mail: <input type="text" size="30"><br>
+Date of birth: <input type="text" size="10"><br>
+<input type="button" value="submit">
+</fieldset>
+</form>
+<img src="C:\Users\VIKAS\Pictures\Screenshots\Screenshot 2024-02-15 185611.png"height="500"widht="00"/>
+<H1><FONT COLOR="RED">WELCOME TO OUR SOLUTIONS WEBSITE</H1>
+<P>हमें AI technology का बुद्धिमानी और जिम्मेदारी से उपयोग करना चाहिए।हमें तकनीक को अपने जीवन को नियंत्रित नहीं करने देना चाहिए।<br>“हमें तकनीक को उन लोगों के लिए भी सुलभ बनाना चाहिए जो वंचित हैं।TECHNOLOGY नए पैलू के साथ भविष्य को बनायेगी, लेकिन हमें यह सुनिश्चित करना होगा कि, यह एक बेहतर दिशा की और भविष्य को बनाए</FONT></P>
+
+
+<H1>
+ <FONT COLOR="YELLOW">OUR TEAM</FONT></H1>
+<CENTER>
+	<H3>MEET OUR TEAM</H3>
+<TABLE BORDER=5PX BGCOLOR="YELLOW">
+	<TR>
+		BEST EMPLOYEES NAME
+	 </TR>
+	
+	<TD>
+
+
+
+	 <a href="https://www.instagram.com/reel/C0FaxS3SV_1/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="><U><FONT COLOR="RED"><B>INSTAGRAM ID</B><BR></FONT>VIKASH</TD>
+
+	
+	<TD>
+
+
+	<a href="https
+	://www.instagram.com/p/Cz9E0-BtFum/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="><U><FONT COLOR="RED"><B>INSTAGRAM ID</B><BR></FONT>KAMLESH</TD>
+</TD>
+	
+	
+	<TD>
+
+
+		<a href="https://www.instagram.com/p/CvFbqf9pyjC/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="><U><FONT COLOR="RED"><B>INSTAGRAM ID</B><BR></FONT>LOKESH</TD>
+
+	
+	
+
+</TABLE>
+</CENTER>
+
+
+
+
+</body>
+</html>
